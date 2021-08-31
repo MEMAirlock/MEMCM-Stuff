@@ -1,0 +1,8 @@
+<SMS_Roles>
+  <SMS_Role CopiedFromID="SMS0002R" RoleName="Airlock Deployment Analyst" RoleDescription="Grants privileges to create all deployment types. When Airlock Deployment Management is enabled, deployment creation and modification are intercepted to be approved by an Airlock Deployment Administrator.">
+    <Operations>
+      <Operation GrantedOperations="215564288" ObjectTypeID="1" />
+      <Operation GrantedOperations="1" ObjectTypeID="6" />
+    </Operations>
+  </SMS_Role>
+</SMS_Roles>
