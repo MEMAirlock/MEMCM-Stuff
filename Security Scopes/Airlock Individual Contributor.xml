@@ -1,0 +1,11 @@
+<SMS_Roles>
+  <SMS_Role CopiedFromID="SMS0002R" RoleName="Airlock Individual Contributor" RoleDescription="Grants privileges to modify individual contributor artifacts as designated by the defined &quot;pre-prod&quot; security scope or &quot;individual&quot; security scope (if working in a 3-tier Airlock hierarchy).">
+    <Operations>
+      <Operation GrantedOperations="1" ObjectTypeID="6" />
+      <Operation GrantedOperations="1047" ObjectTypeID="11" />
+      <Operation GrantedOperations="3146759" ObjectTypeID="20" />
+      <Operation GrantedOperations="1047" ObjectTypeID="38" />
+      <Operation GrantedOperations="1047" ObjectTypeID="213" />
+    </Operations>
+  </SMS_Role>
+</SMS_Roles>
