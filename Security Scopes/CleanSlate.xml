@@ -1,0 +1,7 @@
+<SMS_Roles>
+  <SMS_Role CopiedFromID="SMS0002R" RoleName="Clean Slate" RoleDescription="Only gives &quot;Read Site&quot; permissions.">
+    <Operations>
+      <Operation GrantedOperations="1" ObjectTypeID="6" />
+    </Operations>
+  </SMS_Role>
+</SMS_Roles>
